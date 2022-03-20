@@ -1,6 +1,9 @@
 
 # ISOREPO - MY ISO STORAGE
-### **I am making a UbuntuKytka (Gnome enviroment flavour) i will soon post iso but use it only in VM thanks. -Kytka**
+
+
+### __I am making a UbuntuKytka (Gnome enviroment flavour) i will soon post iso but use it only in VM thanks. -Kytka__
+### I will be happy if you support with sending messages and tell me what should i fix
 ## NEW UBUNTU FLAVOUR:
 [21.10 based .iso ](http://linux.darkpenguin.net/distros/ubuntu-unity/21.10/ubuntu-unity-21.10.iso)
 <img src="https://github.com/kytkaprogramuje/isorepo/blob/gh-pages/Sn%C3%ADmek%20obrazovky%20po%C5%99%C3%ADzen%C3%BD%202022-03-20%2010-48-13.png" />
