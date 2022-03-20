@@ -1,4 +1,4 @@
-<pre>
+
 # ISOREPO - MY ISO STORAGE
 ### **I am making a UbuntuKytka (Gnome enviroment flavour) i will soon post iso but use it only in VM thanks. -Kytka**
 ## NEW UBUNTU FLAVOUR:
@@ -15,4 +15,4 @@
 
 
 
-</pre>
+
